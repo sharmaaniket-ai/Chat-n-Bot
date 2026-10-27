@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain_community
+langchain_core
+langchain-text-splitters
+langchain_ollama
+pypdf
+tempfile
